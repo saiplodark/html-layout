@@ -1,0 +1,24 @@
+body{
+    margin: auto;
+    background-color: green;
+}
+
+.Header{
+    background-color: red;
+    width: auto;
+    height: 20vh;
+}
+
+.content{
+    background-color: royalblue;
+    margin: 0 auto;
+    width: 70%;
+    height: 70vh;
+}
+
+.bottom{
+    background-color: black;
+    margin: auto;
+    width: 70vw;
+    height: 100px;
+}
