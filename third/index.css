@@ -1,0 +1,65 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+header{
+    width: 100vw;
+    height: 150px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+}
+
+header > div{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-left: 50px;
+}
+
+main{
+    margin-top: 0;
+    width: 100vw;
+    height: 80vh;
+    background-color: blueviolet;
+}
+
+.Brow{
+    width: 100vw;
+    height: 33vh;
+    background-color: whitesmoke;
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: center;
+    align-items: center;
+}
+
+h1{
+ font-size: 40px;
+ color: red;
+ padding: 50px;
+}
+
+.Row{
+    width: 100vw;
+    height: 18vh;
+}
+
+.A{
+    background-color: blue;
+}
+
+.B{
+    background-color: cadetblue;
+}
+
+.C{
+    background-color: lightgreen;
+}
+
+.D{
+    background-color: yellow;
+}
